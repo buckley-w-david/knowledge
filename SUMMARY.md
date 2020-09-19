@@ -1,8 +1,8 @@
 # Summary
 
-- [Programming](programming/programming.md)
-  - [SQL](programming/SQL/SQL.md)
-    - [PARTITION BY](programming/SQL/PARTITION-BY.md)
+- [Programming Languages](programming-languages/programming-languages.md)
+  - [SQL](programming-languages/SQL/SQL.md)
+    - [PARTITION BY](programming-languages/SQL/PARTITION-BY.md)
 
 
 
